@@ -21,7 +21,7 @@
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/bowingman">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=bowingman" />
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastercodercat" />
 	</a>
 </p>
 <p align="center">

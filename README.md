@@ -29,10 +29,10 @@
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowingman&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
 	</a>
 	<a href="https://github.com/bowingman">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=bowingman&show_icons=true&theme=dracula" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastercodercat&show_icons=true&theme=dracula" />
 	</a>
 </p>
 
 <p align="center">
-	<img src="https://visitor-badge.glitch.me/badge?page_id=bowingman.bowingman" alt="visitor count"/>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=mastercodercat.mastercodercat" alt="visitor count"/>
 </p>

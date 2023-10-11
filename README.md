@@ -1,6 +1,6 @@
 # Sr. Full Stack Developer with latest technologies
 
-🔭 A full stack developer with 8 years experience in web development and 3 years experience in big data community, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and data visualization.
+🔭 A full stack developer with 10 years experience in web development and 3 years experience in big data community, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and data visualization.
 
 ⚡ I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://spoken.io), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance). Here are my main skills/experiences in web/data.
 
